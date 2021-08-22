@@ -1,2 +1,2 @@
-# Machine-Learning-and-Predictive-Analytics
+# Machine-Learning-for-Predictive-Analytics
 The project relates to applying predictive analytics on customer churn. A major telecom company’s postpaid business of voice-only plans is struggling to maintain its strong foothold in local market because of: - 1) High churn rate amongst customers leading to a revenue decline of ~500k USD every month  2) Decline in overall customer base (high churn rate combined with low acquisition rate), leading to a decline in total market share
